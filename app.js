@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAhCTpRKXYIznHFekk10VuX875mh2IYufE",
-    authDomain: "todo-bmj-firebase.firebaseapp.com",
-    databaseURL: "https://todo-bmj-firebase-default-rtdb.firebaseio.com",
-    projectId: "todo-bmj-firebase",
-    storageBucket: "todo-bmj-firebase.appspot.com",
-    messagingSenderId: "755305452637",
-    appId: "1:755305452637:web:df528e0cce3b9ab099a9b4"
+    apiKey: "***************************************",
+    authDomain: "***************************************",
+    databaseURL: "***************************************",
+    projectId: "***************************************",
+    storageBucket: "***************************************",
+    messagingSenderId: "***************************************",
+    appId: "***************************************"
   };
 
   var app = firebase.initializeApp(firebaseConfig);
